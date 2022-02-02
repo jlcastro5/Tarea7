@@ -45,14 +45,14 @@
    
    13.Determine la inductancia total en la figura 13-44.
 
-   ![]()
+   ![](https://github.com/jlcastro5/Tarea7/blob/29a6a6597e3effde09142b2df5935f675f1b2620/Figura13-44.PNG)
    
    15.Determine la inductancia total en paralelo para las siguientes bobinas dispuestas 
    en paralelo: 75 µH, 50 µH, 25 µH, y 15 µH.
    
    17.Determine la inductancia total de cada circuito mostrado en la figura 13-46.
 
-   ![]()
+   ![](https://github.com/jlcastro5/Tarea7/blob/29a6a6597e3effde09142b2df5935f675f1b2620/Figura13-46.PNG)
    
    *SECCIÓN 13–4 Inductores en circuitos de cd*
    
@@ -67,7 +67,7 @@
    
     (a)10 µs   (b) 20 µs    (c)30 µs   (d) 40 µs   (e)  50 µs
    
-   ![]()
+   ![](https://github.com/jlcastro5/Tarea7/blob/29a6a6597e3effde09142b2df5935f675f1b2620/Figura13-48.PNG)
    
    23.Repita el problema 21 para los siguientes instantes:
    
@@ -76,16 +76,16 @@
     25.En la figura 13-48, ¿en qué momento luego de que se cierra el interruptor el voltaje
     llega a 5 V?
     
-    ![]()
+    ![](https://github.com/jlcastro5/Tarea7/blob/29a6a6597e3effde09142b2df5935f675f1b2620/Figura13-48.PNG)
     
     27.Determine la constante de tiempo para el circuito de la figura 13-50.
     
-    ![]()
+    ![](https://github.com/jlcastro5/Tarea7/blob/29a6a6597e3effde09142b2df5935f675f1b2620/Figura13-50.PNG)
     
     *29.Para el circuito de la figura 13-50, suponga que el interruptor estuvo cerrado por más 
     de 5t y se abre.¿Cuál es la corriente en el inductor 1.0 ms después de que se abre el interruptor?
     
-    ![]()
+    ![](https://github.com/jlcastro5/Tarea7/blob/29a6a6597e3effde09142b2df5935f675f1b2620/Figura13-50.PNG)
     
    
    *SECCIÓN 13–5 Inductores en circuitos de ca*
@@ -93,16 +93,16 @@
    31.Determine la reactancia total para cada circuito de la figura 13-47 cuando se aplica voltaje a una
    frecuencia de 400Hz.
    
-   ![]()
+   ![](https://github.com/jlcastro5/Tarea7/blob/29a6a6597e3effde09142b2df5935f675f1b2620/Figura13-47.PNG)
    
    33.¿Qué frecuencia producirá una corriente rms total de 500 mA en cada circuito de la figura 13-47 con
    un voltaje de entrada rms de 10 V?
    
-   ![]()
+   ![](https://github.com/jlcastro5/Tarea7/blob/29a6a6597e3effde09142b2df5935f675f1b2620/Figura13-47.PNG)
    
    35.Determine IL2 en la figura 13-52.
 
-   ![]()
+   ![](https://github.com/jlcastro5/Tarea7/blob/29a6a6597e3effde09142b2df5935f675f1b2620/Figura13-52.PNG)
    
    
    **CAPITULO 14**
@@ -120,7 +120,7 @@
    5.Para cada transformador de la figura 14-42, trace el voltaje secundario que muestre su relación con el
    voltaje primario. Indique también la amplitud.
    
-   ![]()
+   ![](https://github.com/jlcastro5/Tarea7/blob/29a6a6597e3effde09142b2df5935f675f1b2620/Figura14-42.PNG)
    
    *SECCIÓN 14–3 Transformadores elevadores y reductores*
    
@@ -134,19 +134,26 @@
    
    13.Determine las lecturas de medidor no especificadas en la figura 14-44.
    
-   ![]()
+   
+   ![](https://github.com/jlcastro5/Tarea7/blob/29a6a6597e3effde09142b2df5935f675f1b2620/Figura14-44.PNG)
    
    *SECCIÓN 14–4 Carga del devanado secundario*
    
    15.Determine las siguientes cantidades en la figura 14-46.
 
+   ![](https://github.com/jlcastro5/Tarea7/blob/29a6a6597e3effde09142b2df5935f675f1b2620/Figura14-46.PNG)
+
    *SECCIÓN 14–5 Carga reflejada*
    
    17.¿Cuál debe ser la relación de vueltas en la figura 14-48 para reflejar 300Ω en el circuito primario?
    
+   ![](https://github.com/jlcastro5/Tarea7/blob/29a6a6597e3effde09142b2df5935f675f1b2620/Figura14-48.PNG)
+   
    *SECCIÓN 14–6 Igualación de impedancia*
    
    19.En la figura 14-49, ¿cuál es la potencia máxima que puede ser suministrada al altavoz de 4 Ω?
+   
+   ![](https://github.com/jlcastro5/Tarea7/blob/29a6a6597e3effde09142b2df5935f675f1b2620/Figura14-49.PNG)
 
    *SECCIÓN 14–7 Características de un transformador no idea*
    
@@ -164,11 +171,11 @@
    
    27.Determine cada uno de los voltajes desconocidos indicados en la figura 14-51.
 
-   ![]()
+   ![](https://github.com/jlcastro5/Tarea7/blob/29a6a6597e3effde09142b2df5935f675f1b2620/Figura14-51.PNG)
    
-   29.Encuentre el voltaje secundario para cada uno de los autotransformadores mostrados en la figura 14-53.\
+   29.Encuentre el voltaje secundario para cada uno de los autotransformadores mostrados en la figura 14-53.
    
-   ![]()
+   ![](https://github.com/jlcastro5/Tarea7/blob/29a6a6597e3effde09142b2df5935f675f1b2620/Figura14-53.PNG)
    
    *31.Para el transformador cargado con tomas que muestra la figura 14-55, determine lo siguiente:
     
@@ -176,7 +183,7 @@
     
     (b) La resistencia reflejada en el primario
     
-   ![]()
+   ![](https://github.com/jlcastro5/Tarea7/blob/29a6a6597e3effde09142b2df5935f675f1b2620/Figura14-55.PNG)
    
    
    *SECCIÓN 14–9 Localización de fallas*
