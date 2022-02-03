@@ -20,22 +20,49 @@
    
    1.Convierta los siguientes valores en milihenries:
    
-   (a) 1 H (b)250 µH (c) 10 µH (d) 0.0005 H
+   a) H = 1000 mH
+   
+   b) 250µH = 0.25 mH
+   
+   c) 10 µH = 0.01 mH
+   
+   d) 0.0005 H = 0.5 mH
    
    3.¿Cuál es el voltaje en una bobina cuando di/dt = 10 mA/µs y L = 5 µH?
+   
+   Vin = L(di/dt) 
+   
+   Vin = 5µH(10mA/µs) = 0.05
+   
+   Vin= 50mV
 
    5.La corriente a través de una bobina de 100 mH cambia a razón de 200 mA/s. 
    ¿Cuánto voltaje se induce en la bobina?
    
+   Vin = L(di/dt)
+   
+   Vin = 100mH(200mA)
+   
+   Vin = 0.02
+   
+   Vin = 20mV
+   
    7.¿Qué cantidad de energía se guarda en un inductor de 4.7 mH cuando la
    corriente es de 20 mA?
+   
+   W = 1/2 L.I^2
+   
+   W = 1/2(4.7mH)(20mA)^2
+   
+   W = 0.94 µJ
    
    9.Compare la inductancia de dos inductores idénticos excepto que el inductor 
    2 está enrollado sobre un núcleo de hierro (permeabilidad relativa =150) y el 
    inductor 1 está enrollado sobre un núcleo de acero al bajo carbono (permeabilidad 
    relativa =200).
    
-   
+   El inductor 2 tiene tres cuartos por su nucleo de hierro mientras el inductor 1 
+   contiene un nucle de carbojo.
    
    *SECCIÓN 13–3 Inductores en serie y en paralelo*
    
@@ -43,9 +70,22 @@
    de cada inductor es el doble del valor precedente, y si los inductores se conectan en 
    orden de valores ascendentes, ¿cuál es la inductancia total?
    
+   Tomando en cuenta que los inductores conectados comienza desde 5mH por lo cual son 4 inductores
+   mas doble del una al otro
+   
+   LT = L1 + L2 + L3 + Ln
+   
+   LT = 5mH + 10mH + 20mH + 40mH + 80mH
+   
+   LT = 155 mH 
+   
    13.Determine la inductancia total en la figura 13-44.
 
    ![](https://github.com/jlcastro5/Tarea7/blob/29a6a6597e3effde09142b2df5935f675f1b2620/Figura13-44.PNG)
+   
+   LT = 0.500mH + 0.01mH + 55mH
+   
+   LT = 50.5 mH
    
    15.Determine la inductancia total en paralelo para las siguientes bobinas dispuestas 
    en paralelo: 75 µH, 50 µH, 25 µH, y 15 µH.
