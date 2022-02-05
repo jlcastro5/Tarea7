@@ -20,7 +20,7 @@
    
    1.Convierta los siguientes valores en milihenries:
    
-   a) H = 1000 mH
+   a) 1H = 1000 mH
    
    b) 250µH = 0.25 mH
    
@@ -89,6 +89,7 @@
    
    15.Determine la inductancia total en paralelo para las siguientes bobinas dispuestas 
    en paralelo: 75 µH, 50 µH, 25 µH, y 15 µH.
+   
    
    17.Determine la inductancia total de cada circuito mostrado en la figura 13-46.
 
