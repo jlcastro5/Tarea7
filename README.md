@@ -81,7 +81,7 @@
    
    13.Determine la inductancia total en la figura 13-44.
 
-   ![](https://github.com/jlcastro5/Tarea7/blob/29a6a6597e3effde09142b2df5935f675f1b2620/Figura13-44.PNG)
+    ![](https://github.com/jlcastro5/Tarea7/blob/29a6a6597e3effde09142b2df5935f675f1b2620/Figura13-44.PNG)
    
    LT = 0.500mH + 0.01mH + 55mH
    
@@ -90,10 +90,13 @@
    15.Determine la inductancia total en paralelo para las siguientes bobinas dispuestas 
    en paralelo: 75 µH, 50 µH, 25 µH, y 15 µH.
    
+    ![](https://github.com/jlcastro5/Tarea7/blob/2157ee96570a25a7aa45011854a4aab860d3a2c4/E15.PNG)
    
    17.Determine la inductancia total de cada circuito mostrado en la figura 13-46.
 
-   ![](https://github.com/jlcastro5/Tarea7/blob/29a6a6597e3effde09142b2df5935f675f1b2620/Figura13-46.PNG)
+    ![](https://github.com/jlcastro5/Tarea7/blob/29a6a6597e3effde09142b2df5935f675f1b2620/Figura13-46.PNG)
+   
+    ![](https://github.com/jlcastro5/Tarea7/blob/2157ee96570a25a7aa45011854a4aab860d3a2c4/E17.PNG)
    
    *SECCIÓN 13–4 Inductores en circuitos de cd*
    
@@ -103,27 +106,37 @@
     a) R=100Ω,L=100µH b) R=4.7kΩ, L=10mH
     c) R=1.5 MΩ,L=3H
     
+    ![](https://github.com/jlcastro5/Tarea7/blob/2157ee96570a25a7aa45011854a4aab860d3a2c4/E19.PNG)
+    
    21.En el circuito de la figura 13-48, al inicio no hay corriente. Determine el voltaje 
    en el inductor en los siguientes instantes tras de que se cierra el interruptor:
    
     (a)10 µs   (b) 20 µs    (c)30 µs   (d) 40 µs   (e)  50 µs
    
-   ![](https://github.com/jlcastro5/Tarea7/blob/29a6a6597e3effde09142b2df5935f675f1b2620/Figura13-48.PNG)
+     ![](https://github.com/jlcastro5/Tarea7/blob/29a6a6597e3effde09142b2df5935f675f1b2620/Figura13-48.PNG)
+   
+     ![](https://github.com/jlcastro5/Tarea7/blob/2157ee96570a25a7aa45011854a4aab860d3a2c4/E21.PNG)
    
    23.Repita el problema 21 para los siguientes instantes:
    
     a) 2 µs    b) 5 µs    c) 15 µs
+   
+    ![](https://github.com/jlcastro5/Tarea7/blob/2157ee96570a25a7aa45011854a4aab860d3a2c4/E23.PNG)
     
-    25.En la figura 13-48, ¿en qué momento luego de que se cierra el interruptor el voltaje
-    llega a 5 V?
+   25.En la figura 13-48, ¿en qué momento luego de que se cierra el interruptor el voltaje
+   llega a 5 V?
     
     ![](https://github.com/jlcastro5/Tarea7/blob/29a6a6597e3effde09142b2df5935f675f1b2620/Figura13-48.PNG)
     
-    27.Determine la constante de tiempo para el circuito de la figura 13-50.
+    ![](https://github.com/jlcastro5/Tarea7/blob/2157ee96570a25a7aa45011854a4aab860d3a2c4/E25.PNG)
+    
+   27.Determine la constante de tiempo para el circuito de la figura 13-50.
     
     ![](https://github.com/jlcastro5/Tarea7/blob/29a6a6597e3effde09142b2df5935f675f1b2620/Figura13-50.PNG)
     
-    *29.Para el circuito de la figura 13-50, suponga que el interruptor estuvo cerrado por más 
+    ![](https://github.com/jlcastro5/Tarea7/blob/2157ee96570a25a7aa45011854a4aab860d3a2c4/E27.PNG)
+    
+   *29.Para el circuito de la figura 13-50, suponga que el interruptor estuvo cerrado por más 
     de 5t y se abre.¿Cuál es la corriente en el inductor 1.0 ms después de que se abre el interruptor?
     
     ![](https://github.com/jlcastro5/Tarea7/blob/29a6a6597e3effde09142b2df5935f675f1b2620/Figura13-50.PNG)
@@ -134,12 +147,16 @@
    31.Determine la reactancia total para cada circuito de la figura 13-47 cuando se aplica voltaje a una
    frecuencia de 400Hz.
    
-   ![](https://github.com/jlcastro5/Tarea7/blob/29a6a6597e3effde09142b2df5935f675f1b2620/Figura13-47.PNG)
+    ![](https://github.com/jlcastro5/Tarea7/blob/29a6a6597e3effde09142b2df5935f675f1b2620/Figura13-47.PNG) 
+     
+    ![](https://github.com/jlcastro5/Tarea7/blob/2157ee96570a25a7aa45011854a4aab860d3a2c4/E31.PNG)
    
    33.¿Qué frecuencia producirá una corriente rms total de 500 mA en cada circuito de la figura 13-47 con
    un voltaje de entrada rms de 10 V?
    
-   ![](https://github.com/jlcastro5/Tarea7/blob/29a6a6597e3effde09142b2df5935f675f1b2620/Figura13-47.PNG)
+    ![](https://github.com/jlcastro5/Tarea7/blob/29a6a6597e3effde09142b2df5935f675f1b2620/Figura13-47.PNG)
+   
+    ![](https://github.com/jlcastro5/Tarea7/blob/2157ee96570a25a7aa45011854a4aab860d3a2c4/E33.PNG)
    
    35.Determine IL2 en la figura 13-52.
 
