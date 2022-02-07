@@ -141,7 +141,8 @@
     
     ![](https://github.com/jlcastro5/Tarea7/blob/29a6a6597e3effde09142b2df5935f675f1b2620/Figura13-50.PNG)
     
-   
+    ![](https://github.com/jlcastro5/Tarea7/blob/fb3f60f16eadbcd805515435d4d8623637804e31/E29.PNG)
+
    *SECCIÓN 13–5 Inductores en circuitos de ca*
    
    31.Determine la reactancia total para cada circuito de la figura 13-47 cuando se aplica voltaje a una
@@ -162,6 +163,7 @@
 
    ![](https://github.com/jlcastro5/Tarea7/blob/29a6a6597e3effde09142b2df5935f675f1b2620/Figura13-52.PNG)
    
+   ![](https://github.com/jlcastro5/Tarea7/blob/fb3f60f16eadbcd805515435d4d8623637804e31/E35.PNG)
    
    **CAPITULO 14**
    
