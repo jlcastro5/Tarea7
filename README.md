@@ -10,7 +10,7 @@
 
 
 2. MARCO TEORICO
- ![]()
+ ![](https://github.com/jlcastro5/Tarea7/blob/77162dfc0860618e78b5f77781a125f9c4493397/TAREA7.jpeg)
 
 3. EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS
   
