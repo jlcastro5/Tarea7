@@ -171,43 +171,59 @@
    
    1.¿Cuál es la inductancia mutua cuando k = 0.75, L1 = 1 µH, y L2 = 4 µH?
    
+    ![](https://github.com/jlcastro5/Tarea7/blob/e5205c6118c5d94639ca4616aa434512ce9628fd/2E1.PNG)
    
    *SECCIÓN 14–2 El transformador básico*
    
    3.¿Cuál es la relación de vueltas de un transformador con 250 vueltas en el primario y 1000 en el secundario? 
    ¿Cuál es la relación de vueltas cuando el devanado primario tiene 400 vueltas y el secundario 100?
    
+    ![](https://github.com/jlcastro5/Tarea7/blob/e5205c6118c5d94639ca4616aa434512ce9628fd/2E3.PNG)
+   
    5.Para cada transformador de la figura 14-42, trace el voltaje secundario que muestre su relación con el
    voltaje primario. Indique también la amplitud.
    
-   ![](https://github.com/jlcastro5/Tarea7/blob/29a6a6597e3effde09142b2df5935f675f1b2620/Figura14-42.PNG)
+    ![](https://github.com/jlcastro5/Tarea7/blob/29a6a6597e3effde09142b2df5935f675f1b2620/Figura14-42.PNG)
+   
+    ![](https://github.com/jlcastro5/Tarea7/blob/e5205c6118c5d94639ca4616aa434512ce9628fd/2E5.PNG)
    
    *SECCIÓN 14–3 Transformadores elevadores y reductores*
    
    7.El devanado primario de un transformador tiene 120 V de ca a través de él. ¿Cuál es el voltaje secundario si la
    relación de vueltas es de 5?
    
+    ![](https://github.com/jlcastro5/Tarea7/blob/e5205c6118c5d94639ca4616aa434512ce9628fd/2E7.PNG)
+   
    9.Para reducir 120 V a 30 V, ¿cuál debe ser la relación de vueltas?
+   
+    ![](https://github.com/jlcastro5/Tarea7/blob/e5205c6118c5d94639ca4616aa434512ce9628fd/2E9.PNG)
 
    11.¿Cuántos volts primarios se deben aplicar a un transformador que tiene relación de vueltas de 0.1 para
    obtener un voltaje secundario de 6 V de ca?
    
+    ![](https://github.com/jlcastro5/Tarea7/blob/e5205c6118c5d94639ca4616aa434512ce9628fd/2E11.PNG)
+   
    13.Determine las lecturas de medidor no especificadas en la figura 14-44.
-   
-   
-   ![](https://github.com/jlcastro5/Tarea7/blob/29a6a6597e3effde09142b2df5935f675f1b2620/Figura14-44.PNG)
+    
+    ![](https://github.com/jlcastro5/Tarea7/blob/29a6a6597e3effde09142b2df5935f675f1b2620/Figura14-44.PNG)
+    
+    ![](https://github.com/jlcastro5/Tarea7/blob/e5205c6118c5d94639ca4616aa434512ce9628fd/2E13.PNG)
    
    *SECCIÓN 14–4 Carga del devanado secundario*
    
    15.Determine las siguientes cantidades en la figura 14-46.
 
-   ![](https://github.com/jlcastro5/Tarea7/blob/29a6a6597e3effde09142b2df5935f675f1b2620/Figura14-46.PNG)
+    ![](https://github.com/jlcastro5/Tarea7/blob/29a6a6597e3effde09142b2df5935f675f1b2620/Figura14-46.PNG)
+    
+    ![](https://github.com/jlcastro5/Tarea7/blob/e5205c6118c5d94639ca4616aa434512ce9628fd/2E15.PNG)
 
    *SECCIÓN 14–5 Carga reflejada*
    
    17.¿Cuál debe ser la relación de vueltas en la figura 14-48 para reflejar 300Ω en el circuito primario?
    
-   ![](https://github.com/jlcastro5/Tarea7/blob/29a6a6597e3effde09142b2df5935f675f1b2620/Figura14-48.PNG)
+    ![](https://github.com/jlcastro5/Tarea7/blob/29a6a6597e3effde09142b2df5935f675f1b2620/Figura14-48.PNG)
+   
+    ![](https://github.com/jlcastro5/Tarea7/blob/e5205c6118c5d94639ca4616aa434512ce9628fd/2E17.PNG)
    
    *SECCIÓN 14–6 Igualación de impedancia*
    
