@@ -231,8 +231,6 @@
    
    ![](https://github.com/jlcastro5/Tarea7/blob/29a6a6597e3effde09142b2df5935f675f1b2620/Figura14-49.PNG)
 
-   ![](https://github.com/jlcastro5/Tarea7/blob/29a6a6597e3effde09142b2df5935f675f1b2620/Figura14-49.PNG)
-
    *SECCIÓN 14–7 Características de un transformador no idea*
    
    21.En cierto transformador, la potencia de entrada al primario es de 100 W, Si se pierden 5.5 W en las 
