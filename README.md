@@ -276,14 +276,10 @@
     
    ![](https://github.com/jlcastro5/Tarea7/blob/29a6a6597e3effde09142b2df5935f675f1b2620/Figura14-55.PNG)
    
-   ![](https://github.com/jlcastro5/Tarea7/blob/29a6a6597e3effde09142b2df5935f675f1b2620/Figura14-49.PNG)
-
    
    *SECCIÓN 14–9 Localización de fallas*
    
    33.¿Qué es probable que suceda si el devanado primario de un transformador se pone en cortocircuito?
-   
-   ![](https://github.com/jlcastro5/Tarea7/blob/29a6a6597e3effde09142b2df5935f675f1b2620/Figura14-49.PNG)
    
    En el caso de que esto sucediera el transformador no cumpliría con su función puesto a que no existiría conexión entre ambos terminales, el primario y el secundario por lo que la energía no se transformaría en dicho sistema
 
