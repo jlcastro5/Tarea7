@@ -2,11 +2,13 @@
 1. OBJETIVOS 
 
    Objetivo general
-
+     
+     * Explicar y resolver los problemas presentados en los capítulos trece y catorce del libro "Principios de circuitos eléctricos" de Floyd mediante el uso de los conocimientos adquiridos en clases y el contenido del libro referente a inductores y transformadores para encontrar un voltaje y las corrientes teniendo en cuenta las diferentes fuentes de voltajes, su transformacion y usos, permitiéndonos identificar las características correspondientes y lograr resolver cualquier tipo de circuito con un análisis y razonamiento adecuado.
 
    Objetivos específicos
    
-     * 
+     * Identificar de una manera agil lo solicitado, resolver los circuitos mediante los los metodos explicados en los precentes capitulos sobre inductores y transformadores.
+     * Analizar de forma correcta los resultaos obtenidos, establecer la relación con los elementos reales y entender como interactua la corriente continua y alterna con los inductores y transformadores.
 
 
 2. MARCO TEORICO
@@ -288,7 +290,7 @@
 
 5. CONCLUSIONES
 
-*	
+*	Por medio del presente trabajo permitió aplicar los métodos ya conocidos sobre los inductores, tanto en serie como el paralelo, la resolución de circuitos eléctricos con capacitores, inductores y transformadores, otorgó resultados confiables ya que fueron relacionados con los efectos reales, cada circuito reporto valores importantes que permitieron entender los resultados y así brindar un análisis correcto, por lo tanto llegamos a comprender la aplicación del actual tema tratado.
 
 6. BIBLIOGRAFÍA 
  
