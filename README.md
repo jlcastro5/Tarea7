@@ -230,25 +230,27 @@
    19.En la figura 14-49, ¿cuál es la potencia máxima que puede ser suministrada al altavoz de 4 Ω?
    
    ![](https://github.com/jlcastro5/Tarea7/blob/29a6a6597e3effde09142b2df5935f675f1b2620/Figura14-49.PNG)
+   
+   ![](https://github.com/jlcastro5/Tarea7/blob/da28cf6162c6abcb73d69e6e984c0de99209e681/1.PNG)
 
    *SECCIÓN 14–7 Características de un transformador no idea*
    
    21.En cierto transformador, la potencia de entrada al primario es de 100 W, Si se pierden 5.5 W en las 
    resistencias de devanado, ¿cuál es la potencia de salida hacia la carga, omitiendo cualesquiera otras pérdidas?
   
-     ![](https://github.com/jlcastro5/Tarea7/blob/29a6a6597e3effde09142b2df5935f675f1b2620/Figura14-49.PNG)
+     ![](https://github.com/jlcastro5/Tarea7/blob/da28cf6162c6abcb73d69e6e984c0de99209e681/2.PNG)
 
   
    23.Determine el coeficiente de acoplamiento de un transformador en el cual un 2% del flujo total generado
    en el primario no pasa a través del secundario.
 
-   ![](https://github.com/jlcastro5/Tarea7/blob/29a6a6597e3effde09142b2df5935f675f1b2620/Figura14-49.PNG)
+   ![](https://github.com/jlcastro5/Tarea7/blob/da28cf6162c6abcb73d69e6e984c0de99209e681/3.PNG)
 
 
    25.¿Qué potencia nominal en kVA se requiere para un transformador que debe manejar una corriente máxima
    de 10 A a través de la carga con un voltaje secundario de 2.5 kV?
 
-   ![](https://github.com/jlcastro5/Tarea7/blob/29a6a6597e3effde09142b2df5935f675f1b2620/Figura14-49.PNG)
+   ![](https://github.com/jlcastro5/Tarea7/blob/da28cf6162c6abcb73d69e6e984c0de99209e681/4.PNG)
 
    
    *SECCIÓN 14–8 Transformadores con tomas y devanados múltiples*
@@ -257,13 +259,13 @@
 
    ![](https://github.com/jlcastro5/Tarea7/blob/29a6a6597e3effde09142b2df5935f675f1b2620/Figura14-51.PNG)
   
-   ![](https://github.com/jlcastro5/Tarea7/blob/29a6a6597e3effde09142b2df5935f675f1b2620/Figura14-49.PNG)
+   ![](https://github.com/jlcastro5/Tarea7/blob/da28cf6162c6abcb73d69e6e984c0de99209e681/5.PNG)
 
    29.Encuentre el voltaje secundario para cada uno de los autotransformadores mostrados en la figura 14-53.
    
    ![](https://github.com/jlcastro5/Tarea7/blob/29a6a6597e3effde09142b2df5935f675f1b2620/Figura14-53.PNG)
   
-   ![](https://github.com/jlcastro5/Tarea7/blob/29a6a6597e3effde09142b2df5935f675f1b2620/Figura14-49.PNG)
+   ![](https://github.com/jlcastro5/Tarea7/blob/da28cf6162c6abcb73d69e6e984c0de99209e681/6.PNG)
 
 
    *31.Para el transformador cargado con tomas que muestra la figura 14-55, determine lo siguiente:
@@ -282,6 +284,8 @@
    33.¿Qué es probable que suceda si el devanado primario de un transformador se pone en cortocircuito?
    
    ![](https://github.com/jlcastro5/Tarea7/blob/29a6a6597e3effde09142b2df5935f675f1b2620/Figura14-49.PNG)
+   
+   En el caso de que esto sucediera el transformador no cumpliría con su función puesto a que no existiría conexión entre ambos terminales, el primario y el secundario por lo que la energía no se transformaría en dicho sistema
 
    
 4. VIDEO
