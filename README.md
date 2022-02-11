@@ -288,6 +288,8 @@
    
 4. VIDEO
 
+   https://www.youtube.com/watch?v=EJay110VgtI
+
 5. CONCLUSIONES
 
 *	Por medio del presente trabajo permitió aplicar los métodos ya conocidos sobre los inductores, tanto en serie como el paralelo, la resolución de circuitos eléctricos con capacitores, inductores y transformadores, otorgó resultados confiables ya que fueron relacionados con los efectos reales, cada circuito reporto valores importantes que permitieron entender los resultados y así brindar un análisis correcto, por lo tanto llegamos a comprender la aplicación del actual tema tratado.
